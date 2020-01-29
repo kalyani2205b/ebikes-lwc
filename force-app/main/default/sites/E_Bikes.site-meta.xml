@@ -23,8 +23,8 @@
     <requireHttps>true</requireHttps>
     <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>test-yofedql671ah@example.com</siteAdmin>
+    <siteAdmin>kalyani2205b@cunning-raccoon-pcdqc8.com</siteAdmin>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>fun-computing-3083-dev-ed-16985874c7a</subdomain>
+    <subdomain>ebikes-lwc-kalyani-developer-edition.ap15.force.com</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
